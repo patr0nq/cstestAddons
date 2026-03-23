@@ -10,6 +10,12 @@
             "patr0n"
         ],
         "tvTypes": [
-            "Live Tv"
-        ]
+            "Livee Tv"
+        ],
+        "version": 21,
+        "internalName": "patr0nYT",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/patr0nq/cstestAddons/builds/YTPatron.cs3",
+        "name": "AnimeciX"
+    },
 ]

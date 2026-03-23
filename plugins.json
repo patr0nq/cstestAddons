@@ -12,10 +12,10 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 21,
-        "internalName": "patr0nYT",
+        "version": 1,
+        "internalName": "YTPatron",
         "description": "",
         "url": "https://raw.githubusercontent.com/patr0nq/cstestAddons/builds/YTPatron.cs3",
-        "name": "ytpatron"
+        "name": "YTPatron"
     }
 ]
